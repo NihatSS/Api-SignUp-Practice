@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\companyapi\\controllers\\admin\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\controllers\\admin\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\companyapi\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\service\\helper\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\helper\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\service\\helper\\dtos\\jobs\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\helper\\dtos\\jobs\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\service\\helper\\dtos\\jobs\\jobcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\helper\\dtos\\jobs\\jobcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF42D0-A30C-48B4-85CB-7127B2B8D763}|Domain\\Domain.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\api\\companyapi\\domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF42D0-A30C-48B4-85CB-7127B2B8D763}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\CompanyApi\\Controllers\\Admin\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Controllers\\Admin\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\CompanyApi\\Controllers\\Admin\\EmployeeController.cs",
+              "RelativeToolTip": "CompanyApi\\Controllers\\Admin\\EmployeeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:14:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\CompanyApi\\Controllers\\Admin\\CityController.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Controllers\\Admin\\CityController.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\CompanyApi\\Controllers\\Admin\\CityController.cs",
+              "RelativeToolTip": "CompanyApi\\Controllers\\Admin\\CityController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:14:33.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:03:11.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Helper\\DTOs\\Jobs\\JobCreateDto.cs",
+              "RelativeDocumentMoniker": "Service\\Helper\\DTOs\\Jobs\\JobCreateDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Helper\\DTOs\\Jobs\\JobCreateDto.cs",
+              "RelativeToolTip": "Service\\Helper\\DTOs\\Jobs\\JobCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:57:13.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Helper\\DTOs\\Jobs\\JobDto.cs",
+              "RelativeDocumentMoniker": "Service\\Helper\\DTOs\\Jobs\\JobDto.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Helper\\DTOs\\Jobs\\JobDto.cs",
+              "RelativeToolTip": "Service\\Helper\\DTOs\\Jobs\\JobDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:57:03.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Domain\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Domain\\Entities\\Job.cs",
+              "RelativeToolTip": "Domain\\Entities\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:56:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Helper\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helper\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Masa\u00FCst\u00FC\\API\\CompanyApi\\Service\\Helper\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helper\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:53:04.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1248,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

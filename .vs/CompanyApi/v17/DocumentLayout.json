@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\companyapi\\companyapi\\helpers\\validations\\signupdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\helpers\\validations\\signupdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\companyapi\\service\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\companyapi\\companyapi\\controllers\\admin\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\controllers\\admin\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\companyapi\\companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCE90FA-0714-4B31-91FC-524B3BA66899}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\companyapi\\service\\helper\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\helper\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\companyapi\\service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0879B377-E79C-4E12-BFA1-E048135D0A99}|Service\\Service.csproj|solutionrelative:service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpDtoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\CompanyApi\\Helpers\\Validations\\SignUpDtoValidation.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Helpers\\Validations\\SignUpDtoValidation.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\CompanyApi\\Helpers\\Validations\\SignUpDtoValidation.cs",
+              "RelativeToolTip": "CompanyApi\\Helpers\\Validations\\SignUpDtoValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:58:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\CompanyApi\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\CompanyApi\\Program.cs",
+              "RelativeToolTip": "CompanyApi\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:47:05.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\Service\\Helper\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helper\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\Service\\Helper\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helper\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwHUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:39:30.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\CompanyApi\\Controllers\\Admin\\AccountController.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Controllers\\Admin\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\CompanyApi\\Controllers\\Admin\\AccountController.cs",
+              "RelativeToolTip": "CompanyApi\\Controllers\\Admin\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:31:45.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\Service\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\Service\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:27:33.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\CompanyApi\\Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAnwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:20:25.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
